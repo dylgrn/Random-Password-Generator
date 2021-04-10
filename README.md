@@ -11,4 +11,4 @@ This website was made to generate random passwords following user inputed criter
 * JavaScript
 
 ## Website
-
+https://dylgrn.github.io/Random-Password-Generator/
